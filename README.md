@@ -1,13 +1,6 @@
 ### Oieee! Eu sou o KauanFDCarvalho 👋
 
-- 🔭 Atualmente estou estudando Programação no ensino médio
-- 🌱 Meu papel é principalmente de Front-End
-- 👯 Eu Kauan
-- 🤔 Acho as linguagens chatas e difíceis
-- 💬 Atualmente no 3°Ano
-- 📫 How to reach me: Não sei
-- 😄 Pronouns: uai ele/dele
-- ⚡ Fun fact: Estou com mais dois colega de sala fazendo um site das Meninas Superpoderosas
+
 -->
 
 <div align="center">
