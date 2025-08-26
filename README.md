@@ -1,4 +1,4 @@
-### Oieee! Eu sou o KauanFDCarvalho 👋
+### Oi! Eu sou o KauanFDCarvalho 👋
 
 
 -->
